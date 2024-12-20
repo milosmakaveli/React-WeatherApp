@@ -1,5 +1,5 @@
 # ☁️React-WeatherApp☁️
-This is a web application built with the React.js library. It allows users to search for weather information for any city worldwide, providing both the current weather conditions and a 5-day forecast. The app retrieves weather data using the OpenWeather API.
+This is a web application built with the React.js library. It allows users to search for weather information for any city worldwide, providing both the current weather conditions and a 5-day forecast. The app retrieves weather data using the [OpenWeather API](https://openweathermap.org/api).
 
 
 
